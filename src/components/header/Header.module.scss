@@ -1,0 +1,33 @@
+.header {
+  display: flex;
+  padding: 0 30px;
+  height: 100px;
+  justify-content: space-between;
+  align-items: center;
+  @media (max-width: 768px) {
+    padding: 0 10px;
+  }
+  .logo {
+    color: #2b83fc;
+    font-weight: bold;
+    font-size: 26px;
+    @media (max-width: 768px) {
+      font-size: 18px;
+    }
+  }
+  .nav {
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+    .navItem {
+      text-decoration: none;
+      color: #000;
+      font-weight: 500;
+      margin: 0 15px;
+    }
+    .navItemActive {
+      @extend .navItem;
+      color: #2b83fc;
+    }
+  }
+}
