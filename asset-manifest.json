@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/ReactReduxTypescripSaga/static/css/main.c7ccb357.chunk.css",
+    "main.js": "/ReactReduxTypescripSaga/static/js/main.cf23cb84.chunk.js",
+    "main.js.map": "/ReactReduxTypescripSaga/static/js/main.cf23cb84.chunk.js.map",
+    "runtime-main.js": "/ReactReduxTypescripSaga/static/js/runtime-main.126fa6bd.js",
+    "runtime-main.js.map": "/ReactReduxTypescripSaga/static/js/runtime-main.126fa6bd.js.map",
+    "static/css/2.deb2c4ab.chunk.css": "/ReactReduxTypescripSaga/static/css/2.deb2c4ab.chunk.css",
+    "static/js/2.0ac326e5.chunk.js": "/ReactReduxTypescripSaga/static/js/2.0ac326e5.chunk.js",
+    "static/js/2.0ac326e5.chunk.js.map": "/ReactReduxTypescripSaga/static/js/2.0ac326e5.chunk.js.map",
+    "index.html": "/ReactReduxTypescripSaga/index.html",
+    "precache-manifest.f3623ef83c1ddcc7e4ce3beb4da19b73.js": "/ReactReduxTypescripSaga/precache-manifest.f3623ef83c1ddcc7e4ce3beb4da19b73.js",
+    "service-worker.js": "/ReactReduxTypescripSaga/service-worker.js",
+    "static/css/2.deb2c4ab.chunk.css.map": "/ReactReduxTypescripSaga/static/css/2.deb2c4ab.chunk.css.map",
+    "static/css/main.c7ccb357.chunk.css.map": "/ReactReduxTypescripSaga/static/css/main.c7ccb357.chunk.css.map",
+    "static/js/2.0ac326e5.chunk.js.LICENSE.txt": "/ReactReduxTypescripSaga/static/js/2.0ac326e5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.126fa6bd.js",
+    "static/css/2.deb2c4ab.chunk.css",
+    "static/js/2.0ac326e5.chunk.js",
+    "static/css/main.c7ccb357.chunk.css",
+    "static/js/main.cf23cb84.chunk.js"
+  ]
+}
